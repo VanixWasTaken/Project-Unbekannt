@@ -1,4 +1,4 @@
 extends Sprite2D
 
 
-var ich_bin_cool = true
+var ich_bin_cool = false
